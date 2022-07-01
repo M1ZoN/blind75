@@ -5,3 +5,5 @@ def twoSum(nums, target):
         if target - num in seen:
             return [seen[target - num], idx]
         seen[num] = idx
+
+print([2, 7, 11, 15], 9)
