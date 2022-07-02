@@ -20,3 +20,4 @@ def isValid(s):
     return not stack and valid
 
 print(isValid("(]"))
+print(isValid("{}()[]"))
