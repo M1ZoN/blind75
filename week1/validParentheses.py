@@ -1,7 +1,3 @@
-from fileinput import close
-from importlib.resources import open_binary
-
-
 def isValid(s):
     stack = []
     openBracket = {"{", "(", "["}
