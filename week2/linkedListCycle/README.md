@@ -3,7 +3,7 @@
 Date Created: July 6, 2022 5:35 PM
 Difficulty: Easy
 Due Date: July 9, 2022
-Status: Next Up
+Status: Completed
 Week #: Week 2
 
 # Description
