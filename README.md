@@ -14,7 +14,7 @@
 | [110. Balanced Binary Tree](week1/balancedBinaryTree/)            | Completed | Easy       | Week 1 | July 8, 2022  | July 2, 2022 10:15 AM |
 | [232. Implement Queue using Stacks](week2/queueUsingStack/)       | Completed | Easy       | Week 2 | July 9, 2022  | July 6, 2022 5:35 PM  |
 | [141. Linked List Cycle](week2/linkedListCycle/)                  | Completed | Easy       | Week 2 | July 9, 2022  | July 6, 2022 5:35 PM  |
-| [278. First Bad Version](week2/firstBadVersion/)                  | Next Up   | Easy       | Week 2 | July 10, 2022 | July 6, 2022 5:36 PM  |
+| [278. First Bad Version](week2/firstBadVersion/)                  | Completed | Easy       | Week 2 | July 10, 2022 | July 6, 2022 5:36 PM  |
 | [67. Add Binary](week2/addBinary/)                                | Next Up   | Easy       | Week 2 | July 11, 2022 | July 6, 2022 5:53 PM  |
 | [70. Climbing Stairs](week2/climbingStairs/)                      | Next Up   | Easy       | Week 2 | July 11, 2022 | July 6, 2022 5:49 PM  |
 | [383. Ransom Note](week2/ransomNote/)                             | Next Up   | Easy       | Week 2 | July 11, 2022 | July 6, 2022 5:47 PM  |
