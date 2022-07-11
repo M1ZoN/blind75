@@ -16,4 +16,4 @@ class Solution:
             prev = my_ptr
             my_ptr = temp_next
             
-        return head
+        return prev
