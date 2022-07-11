@@ -16,7 +16,7 @@
 | [141. Linked List Cycle](week2/linkedListCycle/)                  | Completed | Easy       | Week 2 | July 9, 2022  | July 6, 2022 5:35 PM  |
 | [278. First Bad Version](week2/firstBadVersion/)                  | Completed | Easy       | Week 2 | July 10, 2022 | July 6, 2022 5:36 PM  |
 | [67. Add Binary](week2/addBinary/)                                | Next Up   | Easy       | Week 2 | July 11, 2022 | July 6, 2022 5:53 PM  |
-| [70. Climbing Stairs](week2/climbingStairs/)                      | Next Up   | Easy       | Week 2 | July 11, 2022 | July 6, 2022 5:49 PM  |
+| [70. Climbing Stairs](week2/climbingStairs/)                      | Completed | Easy       | Week 2 | July 11, 2022 | July 6, 2022 5:49 PM  |
 | [383. Ransom Note](week2/ransomNote/)                             | Completed | Easy       | Week 2 | July 11, 2022 | July 6, 2022 5:47 PM  |
 | [155. Min Stack](week2/minStack/)                                 | Next Up   | Medium     | Week 2 | July 12, 2022 | July 6, 2022 5:49 PM  |
 | [409. Longest Palindrome](week2/longestPalindrome/)               | Next Up   | Easy       | Week 2 | July 12, 2022 | July 6, 2022 5:49 PM  |
