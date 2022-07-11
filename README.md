@@ -21,4 +21,4 @@
 | [155. Min Stack](week2/minStack/)                                 | Next Up   | Medium     | Week 2 | July 12, 2022 | July 6, 2022 5:49 PM  |
 | [409. Longest Palindrome](week2/longestPalindrome/)               | Completed | Easy       | Week 2 | July 12, 2022 | July 6, 2022 5:49 PM  |
 | [169. Majority Element](week2/majorityElement/)                   | Next Up   | Easy       | Week 2 | July 13, 2022 | July 6, 2022 5:53 PM  |
-| [206. Reverse Linked List](week2/reverseLinkedList/)              | Next Up   | Easy       | Week 2 | July 13, 2022 | July 6, 2022 5:49 PM  |
+| [206. Reverse Linked List](week2/reverseLinkedList/)              | Completed | Easy       | Week 2 | July 13, 2022 | July 6, 2022 5:49 PM  |

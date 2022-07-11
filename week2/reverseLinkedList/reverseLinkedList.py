@@ -8,18 +8,12 @@ class ListNode:
 class Solution:
     def reverseList(self, head: ListNode) -> ListNode:
         my_ptr = head
-        my_stack = []
+        prev = None
 
-        while (my_ptr):
-            my_stack.append(my_ptr.val)
-            my_ptr = my_ptr.next
-
-        new_head = ListNode()
-
-        my_ptr = new_head
-        while my_stack:
-            temp = ListNode(my_stack.pop())
-            my_ptr.next = temp
-            my_ptr = my_ptr.next
-
-        return new_head.next
+        while my_ptr:
+            temp_next = my_ptr.next
+            my_ptr.next = prev
+            prev = my_ptr
+            my_ptr = temp_next
+            
+        return head
