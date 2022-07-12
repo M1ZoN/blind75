@@ -22,3 +22,4 @@
 | [409. Longest Palindrome](week2/longestPalindrome/)               | Completed | Easy       | Week 2 |
 | [169. Majority Element](week2/majorityElement/)                   | Completed | Easy       | Week 2 |
 | [206. Reverse Linked List](week2/reverseLinkedList/)              | Completed | Easy       | Week 2 |
+| [876. Middle of the Linked List](week3/middleOfLinkedList/)       | Completed | Easy       | Week 3 |
