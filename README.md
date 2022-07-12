@@ -23,3 +23,4 @@
 | [169. Majority Element](week2/majorityElement/)                   | Completed | Easy       | Week 2 |
 | [206. Reverse Linked List](week2/reverseLinkedList/)              | Completed | Easy       | Week 2 |
 | [876. Middle of the Linked List](week3/middleOfLinkedList/)       | Completed | Easy       | Week 3 |
+| [104. Maximum Depth of Binary Tree](week3/maxDepthBT)             | Completed | Easy       | Week 3 |
