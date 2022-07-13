@@ -1,6 +1,6 @@
 # 13. Roman to Integer
 
-![#c5f015](https://via.placeholder.com/15/c5f015/c5f015.png) `Easy`
+![#D9F8C4](https://via.placeholder.com/15/D9F8C4/D9F8C4.png) `Easy`
 
 # Description
 
