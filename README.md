@@ -27,3 +27,4 @@
 | [217. Contains Duplicate](week3/containsDuplicate)                | Completed | Easy       | Week 3 |
 | [13. Roman to Integer](week3/romanToInt)                          | Completed | Easy       | Week 3 |
 | [844. Backspace String Compare](week3/backspaceStringCompare)     | Completed | Easy       | Week 3 |
+| [338. Counting Bits](week3/countingBits)                          | Completed | Easy       | Week 3 |
