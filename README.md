@@ -25,3 +25,4 @@
 | [876. Middle of the Linked List](week3/middleOfLinkedList/)       | Completed | Easy       | Week 3 |
 | [104. Maximum Depth of Binary Tree](week3/maxDepthBT)             | Completed | Easy       | Week 3 |
 | [217. Contains Duplicate](week3/containsDuplicate)                | Completed | Easy       | Week 3 |
+| [13. Roman to Integer](week3/romanToInt)                          | Completed | Easy       | Week 3 |
