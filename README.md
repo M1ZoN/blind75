@@ -24,3 +24,4 @@
 | [206. Reverse Linked List](week2/reverseLinkedList/)              | Completed | Easy       | Week 2 |
 | [876. Middle of the Linked List](week3/middleOfLinkedList/)       | Completed | Easy       | Week 3 |
 | [104. Maximum Depth of Binary Tree](week3/maxDepthBT)             | Completed | Easy       | Week 3 |
+| [217. Contains Duplicate](week3/containsDuplicate)                | Completed | Easy       | Week 3 |
