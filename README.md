@@ -28,3 +28,4 @@
 | [13. Roman to Integer](week3/romanToInt)                          | Completed | Easy       | Week 3 |
 | [844. Backspace String Compare](week3/backspaceStringCompare)     | Completed | Easy       | Week 3 |
 | [338. Counting Bits](week3/countingBits)                          | Completed | Easy       | Week 3 |
+| [57. Insert Interval](week3/insertInterval)                       | Completed | Medium     | Week 3 |
