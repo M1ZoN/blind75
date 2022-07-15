@@ -29,3 +29,4 @@
 | [844. Backspace String Compare](week3/backspaceStringCompare)     | Completed | Easy       | Week 3 |
 | [338. Counting Bits](week3/countingBits)                          | Completed | Easy       | Week 3 |
 | [57. Insert Interval](week3/insertInterval)                       | Completed | Medium     | Week 3 |
+| [542. 01 Matrix](week3/matrix01)                                  | Completed | Medium     | Week 3 |
